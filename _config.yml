@@ -30,7 +30,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
-  - why_is_the_bay_hot.md
+  - why_is_the_bay_so_hot.md
   - volunteer_info.md
   - news.md
 
