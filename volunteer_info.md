@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteer Information
-permalink: /Volunteer Info/
+permalink: /volunteer_info/
 ---
 [Join us](https://docs.google.com/forms/d/e/1FAIpQLSefdzT36AMtDJTZoYf4KSVVTP8T2kH7KcHr3QkAhTYELuy9bg/viewform)
 
