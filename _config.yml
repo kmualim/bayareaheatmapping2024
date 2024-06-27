@@ -1,7 +1,7 @@
-title: Your awesome title
+title: 2024 Bay Area Heat Mapping Campaign 
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: kmualim
+  email: bayareaheatmap24@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -30,6 +30,9 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
+  - why_is_the_bay_hot.md
+  - volunteer_info.md
+  - news.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
