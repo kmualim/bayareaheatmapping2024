@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Bay Area Heat Mapping Campaign ##
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The Palo Alto Student Climate Coalition (PASCC) is partnering with Acterra, CAPA Strategies, the City of Palo Alto, the City of East Palo Alto, the Mayor of Menlo Park, Belle Haven Action, and Youth Community Service to map the distribution of heat across the Bay Area.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+On one of the hottest days of the summer, a Saturday in late August or early September, volunteers will help drive and navigate around the cities of Palo Alto, East Palo Alto, and Menlo Park.
 
+The campaign is partnering with CAPA Strategies, a company that facilitates heat mapping campaigns like this all over the world, alongside the National Oceanic and Atmospheric Administration (NOAA).
 
-[jekyll-organization]: https://github.com/jekyll
+The data collected will be compiled and analyzed to help city officials better understand the underlying disparities in access to green and cool spaces. 
+
+Climate change exacerbates and increases the incidence of extreme heat events. According to NOAA, extreme heat consistently leads to the deadliest outcomes of all weather events annually. Understanding how heat impacts our communities is becoming increasingly necessary.
+
