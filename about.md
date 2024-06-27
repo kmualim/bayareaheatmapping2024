@@ -16,3 +16,4 @@ The data collected will be compiled and analyzed to help city officials better u
 
 Climate change exacerbates and increases the incidence of extreme heat events. According to NOAA, extreme heat consistently leads to the deadliest outcomes of all weather events annually. Understanding how heat impacts our communities is becoming increasingly necessary.
 
+![image](images/image001.png)
