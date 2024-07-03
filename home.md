@@ -13,7 +13,7 @@ The Bay Area Heat Mapping Campaign is starting in the summer of 2024! The purpos
 
 Urban areas are especially prone to high temperatures due to a combination of hard surfaces (buildings and roads), limited green spaces, and heat-producing factors like car use and industrial activity. This problem, known as the **“Urban Heat Island Effect”** , can create issues for human health, infrastructure, and quality of life. Understanding how temperatures vary based on qualities of the natural and built landscape can inform how we reduce the impacts of rising summer temperatures in our communities.
 
-<a href="url"><img src="https://github.com/kmualim/bayareaheatmapping2024/blob/master/images/uhi_effect.png" align="center" height="200" width="600"></a> 
+<a href="url"><img src="https://github.com/kmualim/bayareaheatmapping2024/blob/master/images/uhi-effect.png" align="center" height="200" width="600"></a> 
 
 <p align="center">
 <code style="color : red"; font-size:50px;> Heat Mapping Campaign for 2024! </code>
