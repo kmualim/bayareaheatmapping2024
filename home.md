@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bay Area Heat Mapping Campaign
-permalink: /Home/
+permalink: /about/
 ---
 
 <p align="center">
