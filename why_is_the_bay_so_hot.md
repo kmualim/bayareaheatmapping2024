@@ -31,11 +31,15 @@ The graph below shows increase in projected number of days per year that will be
 </span>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-earth.png" height="500" width="500">
+</p>
+
 People in these urban heat islands can feel up to 20 degrees hotter than people who are surrounded by trees. When it’s already hot, 20 degrees of extra heat is a big deal, especially if you’re spending time outside for work or play. Extreme heat can trigger dangerous health problems, like exhaustion, heart attacks, breathing problems and asthma, and heat stroke. It can also make chronic health conditions worse or trigger health crisis. 
 
 We can’t predict the weather, but we can be prepared to respond—starting by understanding how heat affects us.
 
-
+If you'd like to learn more, we invite you to use these resources: 
 [![Watch the video](https://img.youtube.com/vi/Y-bVwPRy_no/maxresdefault.jpg)](https://youtu.be/Y-bVwPRy_no)
 
 
