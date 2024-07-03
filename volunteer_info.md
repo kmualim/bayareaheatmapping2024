@@ -6,7 +6,11 @@ permalink: /volunteer_info/
 
 ### If you are interested in becoming a volunteer for the 2024 Heat Mapping campaign, this page will provide useful information on how you will participate – before, during, and after the campaign. The first section includes Frequently Asked Questions (FAQs) to help answer questions volunteers may have about the campaign and their time commitment. The second section includes additional volunteer resources and training materials from CAPA Strategies, one of the project partners who will help coordinate the campaign and produce the final results.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <span style="color:red;font-weight:700;font-size:50px">Frequently Asked Questions (FAQs) </span>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <span style="color:red;font-weight:700;font-size:20px"> What will volunteers do? </span>
 Volunteers are needed to drive along predetermined routes in the Menlo Park, Palo Alto and East Palo Alto areas over three separate one-hour periods during a hot day, typically 6-7 a.m., 3-4 p.m., and 7-8 p.m. Volunteers will use a simple data-collection device attached to their vehicle. You can also volunteer as a navigator and help direct drivers’ turns along their route. Ideally, drivers will need to cover the same route for all three shifts.
@@ -29,14 +33,18 @@ More than likely, yes. Volunteers are asked to identify their preferred driving 
 <span style="color:red;font-weight:700;font-size:20px"> Is compensation available for community volunteers? </span>
 The intention is to provide gas cards and other supplies on the day of the campaign. This will be confirmed in due course.  
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <span style="color:red;font-weight:700;font-size:50px"> Volunteer Resources and Training Materials </span>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <span style="color:red;font-weight:700;font-size:20px"> The Heat Watch Process </span>
 
 [CAPA Heat Watch](https://www.capastrategies.com/capa-heat-watch) is a community heat-mapping project that brings together local volunteers, public and private organizations, universities, and non-profit organizations to co-produce high-resolution heat maps and generate creative and collaborative solutions for extreme heat.
 
 <iframe src="https://drive.google.com/file/d/14B2sLyRR-KElkp7hmZPvZgyeh7l-bJh9/preview" width="640" height="480" allow="autoplay"></iframe>
-<p align="center"> 
+<p align="left"> 
   <span style="color:red;font-weight:700;font-size:20px">
   CAPA Strategies' Volunteer Training Video 
   </span>
