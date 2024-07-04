@@ -6,8 +6,8 @@ permalink: /about/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left">
-  [Sign up to join our campaign here](https://docs.google.com/forms/d/e/1FAIpQLSefdzT36AMtDJTZoYf4KSVVTP8T2kH7KcHr3QkAhTYELuy9bg/viewform))
+<p align="center">
+  [Sign up to join our campaign here!](https://docs.google.com/forms/d/e/1FAIpQLSefdzT36AMtDJTZoYf4KSVVTP8T2kH7KcHr3QkAhTYELuy9bg/viewform)
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ As a part of the National Oceanic Atmospheric Administration's (NOAA) Urban Heat
 
 Our Campaign is part of a larger initiative with NOAA and NIHIIS. 
 <p align="left">
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/urban_heat_campaign.png" height="300" width="500">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/urban_heat_campaign.png" height="300" width="450">
 <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" height="300" width="300">
 </p>
 
