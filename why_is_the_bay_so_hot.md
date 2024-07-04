@@ -38,10 +38,12 @@ The graph below shows increase in projected number of days per year that will be
 
 <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-earth.png" align="left" height="380" width="430" style="border: 2px white">
 
+<br> 
 <p align="right"> 
 <span style="font-size:20px;"> Extreme heat intensifies in developed areas with many buildings and roads, but few trees or green spaces. In these areas, heat gets stored by unshaded concrete and asphalt, which then radiate heat back into the air and cause the temperatures to be 15°F to 20°F warmer in "urban heat islands." 
 </span>
 
+<br>
 <br>
 
 When it’s already hot, 20 degrees of extra heat is a big deal, especially if you’re spending time outside for work or play. Extreme heat can trigger dangerous health problems, like exhaustion, heart attacks, breathing problems and asthma, and heat stroke. It can also make chronic health conditions worse or trigger health crisis. 
