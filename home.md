@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: The Campaign
 permalink: /about/
 ---
 
@@ -8,8 +8,7 @@ permalink: /about/
 
 <p align="center">
   <span style="color:red;font-size:30px;">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSefdzT36AMtDJTZoYf4KSVVTP8T2kH7KcHr3QkAhTYELuy9bg/viewform">Sign up to join our campaign here!</a>.
-  </span>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSefdzT36AMtDJTZoYf4KSVVTP8T2kH7KcHr3QkAhTYELuy9bg/viewform">Sign up to join our campaign here!</a>   </span>
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
