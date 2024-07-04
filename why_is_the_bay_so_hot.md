@@ -21,7 +21,7 @@ Future public health consequences of extreme heat are likely to increase, but ad
 
 **With precise data, we hope to create precise solutions.**
 
-The graph below shows increase in projected number of days per year that will be 100°F in Santa Clara Country. <bold>[Source: The Climate Explorer](https://crt-climate-explorer.nemac.org/climate_graphs/?city=East+Palo+Alto%2C+CA&county=San%2BMateo%2BCounty&area-id=06081&fips=06081&zoom=7&lat=37.4688273&lon=-122.1410751&id=days_tmax_gt_100f)</bold>
+The graph below shows increase in projected number of days per year that will be 100°F in Santa Clara Country. [Source: The Climate Explorer](https://crt-climate-explorer.nemac.org/climate_graphs/?city=East+Palo+Alto%2C+CA&county=San%2BMateo%2BCounty&area-id=06081&fips=06081&zoom=7&lat=37.4688273&lon=-122.1410751&id=days_tmax_gt_100f)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Santa_Clara_County-annual-days_tmax_gt_100f-graph.png" height="250" width="900">
@@ -36,9 +36,8 @@ The graph below shows increase in projected number of days per year that will be
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-earth.png" align="left" height="380" width="430">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-earth.png" align="left" height="380" width="430" style="border: 2px white">
 
-<br> 
 <br> 
 
 <p align="right"> 
@@ -52,7 +51,6 @@ When it’s already hot, 20 degrees of extra heat is a big deal, especially if y
 We can’t predict the weather, but we can be prepared to respond — starting by understanding how heat affects us.
 
 </p>
-
 <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
