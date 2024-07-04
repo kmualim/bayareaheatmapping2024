@@ -10,9 +10,14 @@ permalink: /why_is_the_bay_so_hot/
 </p>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Climate change is bringing more days (and nights) with extremely high temperatures. Extreme heat is one of the most deadly climate hazards. Anyone can be affected by extreme heat, but this hazard often disproportionately impacts low-income communities.
+Climate change is bringing more days (and nights) with extremely high temperatures. Extreme heat is one of the most deadly climate hazards. Extreme heat consistently leads to the deadliest outcomes of all weather events annually (National Weather Service & National Oceanic and Atmospheric Administration, 2022). Anyone can be affected by extreme heat, but this hazard often disproportionately impacts low-income communities.
 
-Future public health consequences of extreme heat are likely to increase, but adaptation and mitigation steps can improve outcomes. In order to understand how cities can take steps to protect communities from the risk of extreme heat, finer resolution temperature maps are required to understand 1) Which neighborhoods tend to get hotter than others, 2) What the distribution of cooling centers are and 3) What steps can be taken to ensure all communities have access to resources during Extreme Heat Events. 
+Future public health consequences of extreme heat are likely to increase, but adaptation and mitigation steps can improve outcomes. In order to understand how cities can take steps to protect communities from the risk of extreme heat, finer resolution temperature maps are required to understand : 
+<ol>
+  <li>Which neighborhoods tend to get hotter than others</li>
+  <li>What the distribution of cooling centers are</li>
+  <li>What steps can be taken to ensure all communities have access to resources during Extreme Heat Events. </li>
+</ol> 
 
 **With precise data, we hope to create precise solutions.**
 
