@@ -45,9 +45,9 @@ With the data volunteers collect, temperature maps are created which will allow 
 <br> 
 
 <p align='left'>
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" height="180" width="210">
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/progressive_church.jpeg" height="180" width="210">
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/sensor-image.jpeg" height="180" width="210">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" height="180" width="220">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/progressive_church.jpeg" height="180" width="220">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/sensor-image.jpeg" height="180" width="220">
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -73,7 +73,6 @@ With the data volunteers collect, temperature maps are created which will allow 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 <p float="left">
-  
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatwatch.png" height="150" width="150" style="border: 2px white">
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Acterra.png" height="150" width="150" style="border: 2px white" >
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/NOAA.png" height="150" width="150" style="border: 2px  white">
@@ -82,5 +81,4 @@ With the data volunteers collect, temperature maps are created which will allow 
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/east_pa.png" height="120" width="150" style="border: 2px  white">
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/belle_haven.webp" height="50" width="150" style="border: 2px  white">
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/palo_alto.png" height="50" width="150" style="border: 2px  white">
-  
 </p>
