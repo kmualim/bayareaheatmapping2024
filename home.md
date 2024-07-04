@@ -45,9 +45,9 @@ With the data volunteers collect, temperature maps are created which will allow 
 <br> 
 
 <p align='left'>
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" height="180" width="200" style="border: 2px white">
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/progressive_church.jpeg" height="180" width="250" style="border: 2px white">
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/sensor-image.jpeg" height="180" width="250" style="border: 2px white">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" height="180" width="210">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/progressive_church.jpeg" height="180" width="210">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/sensor-image.jpeg" height="180" width="210">
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -58,7 +58,7 @@ With the data volunteers collect, temperature maps are created which will allow 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-effect.png" align="left" height="170" width="300" style="border: 2px white">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-effect.png" align="left" height="200" width="300" style="border: 2px white">
 
 
 <p align="right"> Urban areas are especially prone to high temperatures due to a combination of impervious surfaces (buildings and roads), limited green spaces, and  heat-producing factors like car use and industrial activity. This problem, known as the “Urban Heat Island Effect” , can create issues for human health, infrastructure, and quality of life. Understanding how temperatures vary based on qualities of the natural and built landscape can inform how we reduce the impacts of rising summer temperatures in our communities. 
