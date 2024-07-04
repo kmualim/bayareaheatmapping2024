@@ -37,12 +37,17 @@ As a part of the National Oceanic Atmospheric Administration's (NOAA) Urban Heat
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" align="right" height="280" width="300" style="border: 2px white">
 
 On one of the hottest days of the summer (a Saturday in late August/early September), volunteers will drive along pre-planned routes (with sensors attached to their cars) to record temperature, humidity, and GPS location data throughout the morning, afternoon, and evening in Palo Alto, East Palo Alto, and Menlo Park.
 
-<p align="left">
 With the data volunteers collect, temperature maps are created which will allow for better project design and policies that can address heat-related health issues across the region. The data will also support decision makers and government officials in their urban planning and in identifying areas that are most vulnerable to heat; helping to develop climate, urban forestry, housing, and other policies and practices to improve the lives of Bay Area residents. This work will help our cities better understand the underlying inequities in how our communities experience extreme heat. We will then be able to implement local cooling solutions in the most vulnerable areas.
+
+<br> 
+
+<p align='center'>
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" height="250" width="250" style="border: 20px white">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/progressive_church.jpeg" height="250" width="250" style="border: 20px white">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/sensor-image.jpeg" height="250" width="250" style="border: 20px white">
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -53,7 +58,7 @@ With the data volunteers collect, temperature maps are created which will allow 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-effect.png" align="left" height="170" width="300" style="border: 2px white">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-effect.png" align="left" height="170" width="300" style="border: 2px white"> &nbsp;&nbsp
 
 
 <p align="right"> Urban areas are especially prone to high temperatures due to a combination of impervious surfaces (buildings and roads), limited green spaces, and  heat-producing factors like car use and industrial activity. This problem, known as the <bold>“Urban Heat Island Effect”</bold> , can create issues for human health, infrastructure, and quality of life. Understanding how temperatures vary based on qualities of the natural and built landscape can inform how we reduce the impacts of rising summer temperatures in our communities. 
@@ -69,13 +74,13 @@ With the data volunteers collect, temperature maps are created which will allow 
 
 <p float="left">
   
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatwatch.png" height="100" width="100" style="border: 2px white">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Acterra.png" height="100" width="100" style="border: 2px white" >
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/NOAA.png" height="100" width="100" style="border: 2px white">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/YCS.webp" height="80" width="100" style="border: 2px white">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/schmidtlogo.png" height="100" width="100" style="border: 2px white">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/east_pa.png" height="100" width="100" style="border: 2px white">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/belle_haven.webp" height="50" width="180" style="border: 2px white">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/palo_alto.png" height="50" width="180" style="border: 2px white">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatwatch.png" height="200" width="200" style="border: 10px white">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Acterra.png" height="200" width="200" style="border: 10px white" >
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/NOAA.png" height="200" width="200" style="border: 10px white">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/YCS.webp" height="180" width="200" style="border: 10px white">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/schmidtlogo.png" height="200" width="200" style="border: 10px white">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/east_pa.png" height="200" width="200" style="border: 10px white">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/belle_haven.webp" height="150" width="280" style="border: 10px white">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/palo_alto.png" height="150" width="280" style="border: 10px white">
   
 </p>
