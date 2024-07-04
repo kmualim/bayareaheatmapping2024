@@ -45,9 +45,9 @@ With the data volunteers collect, temperature maps are created which will allow 
 <br> 
 
 <p align='center'>
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" height="250" width="250" style="border: 20px white">
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/progressive_church.jpeg" height="250" width="250" style="border: 20px white">
-<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/sensor-image.jpeg" height="250" width="250" style="border: 20px white">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/mapped_regions.png" height="250" width="300" style="border: 20px white">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/progressive_church.jpeg" height="250" width="350" style="border: 20px white">
+<img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/sensor-image.jpeg" height="250" width="350" style="border: 20px white">
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
