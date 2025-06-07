@@ -7,7 +7,7 @@ permalink: /about/
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <span style="color:red;font-size:30px;">We have concluded the 2024-2025 Bay Area Heat Mapping Campaign! Thank you volunteers!</a>  </span>
+  <span style="color:red;font-size:30px;">We have concluded the 2024-2025 Bay Area Heat Mapping Campaign! Thank you volunteers!  </span>
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
