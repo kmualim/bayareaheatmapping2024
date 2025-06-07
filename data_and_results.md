@@ -10,10 +10,9 @@ permalink: /what_did_we_find
 </p>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| Heat Watch Report | Heat Watch Data | Heat Watch Presentation |
+| **Heat Watch Report** | **Heat Watch Data** | **Heat Watch Presentation** |
 | ----------------- | ---------------- | ----------------------- |
 | ![Heat Watch Report]("https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_report.png") | ![Heat Watch Data]("https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_watch_PA.png") | ![Heat Watch Presentation]("https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/bayarea_presentation.png") |
-| **Heat Watch Report** | **Heat Watch Data** | **Heat Watch Presentation** |
 | [Download PDF]("https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Bay Area Heat Mapping Campaign 2024-25.pdf") | [View Data]("https://osf.io/apsx5/files/osfstorage?view_only=1cef760d3865497890a7dd51e859d8d3") | [Download Presentation]("https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Bay Area Heat Mapping Campaign 2024-25.pdf") |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
