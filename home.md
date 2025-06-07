@@ -4,7 +4,7 @@ title: The Campaign
 permalink: /about/
 ---
 
-# The Campaign
+
 
 ---
 
