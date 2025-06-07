@@ -4,8 +4,6 @@ title: Is the Bay Area getting hotter?
 permalink: /why_is_the_bay_so_hot/
 ---
 
-# Is the Bay Area Getting Hotter?
-
 ---
 
 <p align="center" style="color:red; font-weight:700; font-size:30px;">
