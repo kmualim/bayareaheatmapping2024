@@ -7,7 +7,7 @@ permalink: /about/
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <span style="color:red;font-size:30px;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSefdzT36AMtDJTZoYf4KSVVTP8T2kH7KcHr3QkAhTYELuy9bg/viewform">Sign up to join our campaign here!</a>  </span>
+  <span style="color:red;font-size:30px;">We have concluded the 2024-2025 Bay Area Heat Mapping Campaign! Thank you volunteers!</a>  </span>
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
