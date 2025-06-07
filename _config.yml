@@ -30,7 +30,6 @@ header_pages:
   - data_and_results.md
   - why_is_the_bay_so_hot.md
   - volunteer_info.md
-  - sign_up_now.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
