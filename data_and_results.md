@@ -36,14 +36,14 @@ permalink: /data_and_results/
 To see more photos taken during the heat mapping campaign, check out our gallery below:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo1.jpg" alt="Photo 1" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo2.jpg" alt="Photo 2" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo3.jpg" alt="Photo 3" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo4.jpg" alt="Photo 4" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo5.jpg" alt="Photo 5" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo6.jpg" alt="Photo 1" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo7.jpg" alt="Photo 2" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo8.jpg" alt="Photo 3" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo9.jpg" alt="Photo 4" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
-  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo10.jpg" alt="Photo 5" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo1.jpeg" alt="Photo 1" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo2.jpeg" alt="Photo 2" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo3.jpeg" alt="Photo 3" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo4.jpeg" alt="Photo 4" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo5.jpeg" alt="Photo 5" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo6.jpeg" alt="Photo 1" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo7.jpeg" alt="Photo 2" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo8.jpeg" alt="Photo 3" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo9.jpeg" alt="Photo 4" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo10.jpeg" alt="Photo 5" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
 </div>
