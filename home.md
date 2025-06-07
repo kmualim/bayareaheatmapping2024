@@ -34,6 +34,8 @@ As part of the National Oceanic Atmospheric Administration's (NOAA) Urban Heat I
 
 ## The Task
 
+---
+
 On one of the hottest days of the summer (a Saturday in late August/early September), volunteers will drive along pre-planned routes (with sensors attached to their cars) to record temperature, humidity, and GPS location data throughout the morning, afternoon, and evening in Palo Alto, East Palo Alto, and Menlo Park.
 
 With the data volunteers collect, temperature maps are created which will allow for better project design and policies that can address heat-related health issues across the region. The data will also support decision-makers and government officials in their urban planning and in identifying areas that are most vulnerable to heat, helping to develop climate, urban forestry, housing, and other policies and practices to improve the lives of Bay Area residents. This work will help our cities better understand the underlying inequities in how our communities experience extreme heat. We will then be able to implement local cooling solutions in the most vulnerable areas.
@@ -48,23 +50,19 @@ With the data volunteers collect, temperature maps are created which will allow 
 
 ## Urban Heat Island Effect
 
-<p align="center" style="color:red; font-weight:700; font-size:30px;">
-  Urban Heat Island Effect
-</p>
-
 ---
 
 <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/uhi-effect.png" alt="Urban Heat Island Effect" align="left" style="width:40%; margin-right:10px; border: 2px solid white;">
 
 Urban areas are especially prone to high temperatures due to a combination of impervious surfaces (buildings and roads), limited green spaces, and heat-producing factors like car use and industrial activity. This problem, known as the “Urban Heat Island Effect,” can create issues for human health, infrastructure, and quality of life. Understanding how temperatures vary based on qualities of the natural and built landscape can inform how we reduce the impacts of rising summer temperatures in our communities.
 
+<br>
+<br>
+<br>
+
 ---
 
 ## Our Partners
-
-<p align="center" style="color:red; font-weight:700; font-size:30px;">
-  Our Partners
-</p>
 
 ---
 
