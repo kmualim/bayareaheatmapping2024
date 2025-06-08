@@ -4,6 +4,9 @@ title: Heat Mapping Findings
 permalink: /data_and_results/
 ---
 
+
+---
+
 | **Heat Watch Report** | **Heat Watch Data** | **Heat Watch Presentation** |
 | --------------------- | ------------------- | --------------------------- |
 | <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_report.png" alt="Heat Watch Report" style="width:100%; height:250px; object-fit:contain;"> | <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_watch_PA.png" alt="Heat Watch Data" style="width:100%; height:250px; object-fit:contain;"> | <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/bayarea_presentation.png" alt="Heat Watch Presentation" style="width:100%; height:250px; object-fit:contain;"> |
@@ -15,6 +18,18 @@ permalink: /data_and_results/
   Media
 </p>
 
+---
+<div style="text-align: center; margin-bottom: 20px;">
+  <span style="color:red; font-weight:700; font-size:30px;">As Seen On</span>
+  <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
+    [Citizen Portal](https://citizenportal.ai/articles/3278469/Palo-Alto/Santa-Clara-County/California/Julia-Zeitlin-announces-Cool-Cities-Coalition-for-tree-planting-in-Bay-Area)
+    [City of Palo Alto](https://www.paloalto.gov/Events-Directory/Public-Works/August-Bay-Area-Urban-Heat-Island-Mapping-Campaign)<br>
+    [Palo Alto Online](https://www.paloaltoonline.com/environment/2024/06/11/palo-alto-student-climate-coalition-partners-with-community-to-track-hot-spots/)<br>
+    [Panel with Jeff Goddell, author of The Heat Will Kill You First](https://www.paloalto.gov/Events-Directory/Public-Works/Why-Heat-Mapping-Matters-A-Conversation-with-Jeff-Goodell)<br>
+    [Acterra Shoutout!](https://www.instagram.com/p/C-qUwi7sdzI/)<br>
+  </div>
+</div>
+<br>
 ---
 
 <p align="center" style="font-size:15px;">
@@ -45,3 +60,7 @@ To see more photos taken during the heat mapping campaign, check out our gallery
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo11.jpeg" alt="Photo 4" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo12.jpeg" alt="Photo 5" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
 </div>
+
+---
+
+
