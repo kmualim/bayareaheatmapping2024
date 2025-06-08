@@ -6,11 +6,11 @@ permalink: /data_and_results/
 
 
 ---
-
-| **Heat Watch Report** | **Heat Watch Data** | **Heat Watch Presentation** |
-| --------------------- | ------------------- | --------------------------- |
-| <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_report.png" alt="Heat Watch Report" style="width:100%; height:250px; object-fit:contain;"> | <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_watch_PA.png" alt="Heat Watch Data" style="width:100%; height:250px; object-fit:contain;"> | <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/bayarea_presentation.png" alt="Heat Watch Presentation" style="width:100%; height:250px; object-fit:contain;"> |
-| [Download PDF](https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Bay Area Heat Mapping Campaign 2024-25.pdf) | [View Data](https://osf.io/apsx5/files/osfstorage?view_only=1cef760d3865497890a7dd51e859d8d3) | [Download Presentation](https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Bay Area Heat Mapping Campaign 2024-25.pdf) |
+https://capa-strategies.maps.arcgis.com/apps/webappviewer/index.html?id=dc404da719bd4d3183a7e1f3b770b875
+| **Heat Watch Report** | **Heat Watch Map** | **Heat Watch Data** | **Heat Watch Presentation** |
+| --------------------- | ------------------- | ------------------- | --------------------------- |
+| <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_report.png" alt="Heat Watch Report" style="width:100%; height:250px; object-fit:contain;"> | <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_maps.png" alt="Heat Watch Maps" style="width:100%; height:250px; object-fit:contain;"> | <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heat_watch_PA.png" alt="Heat Watch Data" style="width:100%; height:250px; object-fit:contain;"> | <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/bayarea_presentation.png" alt="Heat Watch Presentation" style="width:100%; height:250px; object-fit:contain;"> |
+| [Download PDF](https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Bay Area Heat Mapping Campaign 2024-25.pdf) | [View Maps](https://capa-strategies.maps.arcgis.com/apps/webappviewer/index.html?id=dc404da719bd4d3183a7e1f3b770b875) | [View Data](https://osf.io/apsx5/files/osfstorage?view_only=1cef760d3865497890a7dd51e859d8d3) | [Download Presentation](https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Bay Area Heat Mapping Campaign 2024-25.pdf) |
 
 ---
 
