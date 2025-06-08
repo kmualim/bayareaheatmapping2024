@@ -9,7 +9,16 @@ permalink: /about/
 ---
 
 <p align="center" style="color:red; font-size:30px;">
-  We have concluded the 2024-2025 Bay Area Heat Mapping Campaign! Thank you, volunteers!
+  We have concluded the 2024-2025 Bay Area Heat Mapping Campaign! <br>
+  Look out for news about a Extreme Heat Summit, coming August 2025. 
+
+<div style="background-color:#f0f0f0; border: 2px solid #ccc; padding: 20px; margin-bottom: 20px;">
+  <p style="font-size:16px; font-weight:700; text-align: center;">
+    This work would not be possible without the support from the Schmidt Family Foundation, the National Oceanic and Atmospheric Administration Urban Heat Island Initiative 2024, the Partnerships for Climate Justice in the Bay Area at The Haas Center for Public Service, Pete Cerneka and Students for a Sustainable Stanford, Acterra, CAPA Strategies, the City of Palo Alto, the City of East Palo Alto, the Mayor of Menlo Park, Youth Community Service, and Belle Haven Action. Last but certainly not least, all our volunteers! Our work is only possible because of the long-term investment from the government in institutions such as NOAA, the National Weather Service, and Campaigns to address the impacts of Urban Heat Island across cities throughout the U.S. 
+  </p>
+</div>
+
+---
 </p>
 
 ---
