@@ -42,4 +42,6 @@ To see more photos taken during the heat mapping campaign, check out our gallery
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo8.jpeg" alt="Photo 3" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo9.jpeg" alt="Photo 4" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
   <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo10.jpeg" alt="Photo 5" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo11.jpeg" alt="Photo 4" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
+  <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/heatmapping_photo12.jpeg" alt="Photo 5" style="width:30%; height:auto; object-fit:cover; border: 2px solid #ccc;">
 </div>
