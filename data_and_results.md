@@ -22,7 +22,6 @@ permalink: /data_and_results/
 ## As Seen On
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <span style="color:red; font-weight:700; font-size:30px;">As Seen On</span>
   <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
     <a href="https://citizenportal.ai/articles/3278469/Palo-Alto/Santa-Clara-County/California/Julia-Zeitlin-announces-Cool-Cities-Coalition-for-tree-planting-in-Bay-Area" target="_blank">
       <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/citizenportal.png" alt="Citizen Portal" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
