@@ -25,19 +25,19 @@ permalink: /data_and_results/
   <span style="color:red; font-weight:700; font-size:30px;">As Seen On</span>
   <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
     <a href="https://citizenportal.ai/articles/3278469/Palo-Alto/Santa-Clara-County/California/Julia-Zeitlin-announces-Cool-Cities-Coalition-for-tree-planting-in-Bay-Area" target="_blank">
-      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/blob/master/images/citizenportal.png" alt="Citizen Portal" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
+      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/citizenportal.png" alt="Citizen Portal" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
     </a>
     <a href="https://www.paloalto.gov/Events-Directory/Public-Works/August-Bay-Area-Urban-Heat-Island-Mapping-Campaign" target="_blank">
-      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/blob/master/images/palo_alto.png" alt="Palo Alto" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
+      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/palo_alto.png" alt="Palo Alto" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
     </a>
     <a href="https://www.paloaltoonline.com/environment/2024/06/11/palo-alto-student-climate-coalition-partners-with-community-to-track-hot-spots/" target="_blank">
-      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/blob/master/images/pao.jpg" alt="PAO" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
+      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/pao.jpg" alt="PAO" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
     </a>
     <a href="https://www.paloalto.gov/Events-Directory/Public-Works/Why-Heat-Mapping-Matters-A-Conversation-with-Jeff-Goodell" target="_blank">
-      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/blob/master/images/why_heat_mapping_matters.png" alt="CNN" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
+      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/why_heat_mapping_matters.png" alt="CNN" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
     </a>
     <a href="https://www.instagram.com/p/C-qUwi7sdzI/" target="_blank">
-      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/blob/master/images/Acterra.png" alt="acterra" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
+      <img src="https://raw.githubusercontent.com/kmualim/bayareaheatmapping2024/master/images/Acterra.png" alt="acterra" style="width:150px; height:auto; object-fit:contain; border: 2px solid #ccc;">
     </a>
   </div>
 </div>
